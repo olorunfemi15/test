@@ -1,4 +1,4 @@
-name: Email sending
+name: Email sending now
 on:
   push:
     paths-ignore:
